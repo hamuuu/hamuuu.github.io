@@ -17,25 +17,32 @@ career:
  - position: Software Engineer - Backend
    company: SPE Solution
    location: Jakarta, Indonesia
-   dates: 2021 - current
+   dates: 2021 - 2022
    summary: SPE provides high end solutions to enhance its client technology systems. Based on its experience and knowledge in Financial Technology (FinTech) fields for more than 6 years, SPE helped its clients build end-to-end financial technology solutions. SPE has specialists in the field of payment solutions development and management, payment gateways, e-commerce, switching, chain management systems, smart community, gamification, and also merchant management.
    accomplishments:
-    - accomplishment: BNI Autopay - Autopay Is a payment system owned by BNI that has the capacity to autodebit from BNI's individual taplus accounts. VA Auto Pay will produce a web application for monitoring and service that can be integrated with many e-commerce or marketplaces..
+    - accomplishment: BNI Autopay - Autopay Is a payment system owned by BNI that has the capacity to autodebit from BNI's individual taplus accounts. VA Auto Pay will produce a web application for monitoring and service that can be integrated with many e-commerce or marketplaces.
     - accomplishment: Wappin ID - Wappin is platform to communicate which using WhatsApp API for create WhatsApp Business Integration.
  - position: Software Engineer - Backend
    company: Telkom Indonesia
    location: Jakarta, Indonesia
-   dates: 2022 - current
+   dates: 2022 - 2022
    summary: Join with tribe eHealth to develop app named "Lovit Superapp" to provide service for all internal employee of Telkom Indonesia
+   accomplishments:
+    - accomplishment: Lovit - App to provide service and monitoring tools for employee of Telkom Indonesia.
+    - accomplishment: Lovit Doctor - App to provide doctor a platform to monitor and set anamnesis, diagnosys, reciping and referring employee to nearest health facility.
+ - position: Fullstack Web Developer
+   company: PT. Papabli Bisnis Semesta
+   location: Jakarta, Indonesia
+   dates: 2020 - 2021
+   summary: Papabli is a pioneer and leader digital ecosystem B2B MMS (Marketplace and Management System) in Indonesia, we help all company business (product and service) to reach their highest potential capability on closing sales and reduce cost on their spending at the same time.
+   accomplishments:
+    - accomplishment: Papabli.com - Web platform to perform B2B transaction.
 
 technicalSkills:
   list:
-    - tr: "Impulsive, creative and very social"
-    - tr: "Heart and soul of the Ninja Turtles"
-    - tr: "Master of the Kusarigama and nunchucks"
-    - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
-    - tr: "First of the turtles to taste pizza"
-    - tr: "Very proud of his talent for naming thing"
+    - tr: "I enjoy software development"
+    - tr: "I work in full engagement"
+    - tr: "I could work either solo or being team player"
   backend:
    - name: Ninjutsu
      level: 90
