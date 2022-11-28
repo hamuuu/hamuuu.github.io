@@ -44,20 +44,16 @@ technicalSkills:
     - tr: "I work in full engagement"
     - tr: "I could work either solo or being team player"
   backend:
-   - name: Ninjutsu
-     level: 90
-   - name: Kusarigama
-     level: 80
-  frontend:
-   - name: Cooking Skills
-     level: 80
-   - name: Pranks
-     level: 90
+   - name: Node.JS along with it framework
+   - name: Golang along with it framework
+   - name: PHP along with it framework
+   - name: AMQP Communication Protocol
   other:
-   - name: Shadow Puppet Skill
-     level: 90
-   - name: Teaching
-     level: 100
+   - name: Docker/Containerization
+   - name: Linux
+   - name: SQL
+   - name: NoSQL
+   - name: Object Storage Server
 
 sideProjects:
   - name: jekyll-clean-dark
@@ -73,8 +69,7 @@ sideProjects:
     langs: AngularJS/HTML/CSS/Bootstrap
 
 education:
-  - name: Master Splinter Academy
-    degree: Mutant Red-Eared Slider
-    location: sewers of New York City
-    dates: 2007 – 2012
-    link: http://tmnt2012series.wikia.com/
+  - name: Budi Luhur University
+    degree: Bachelor Degree of Information Technology
+    location: Jakarta, Indonesia
+    dates: 2017 – 2021
