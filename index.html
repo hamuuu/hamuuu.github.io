@@ -170,30 +170,6 @@
     </div>
 
 
-    <div class="row  section section-border">
-      <div class="col-xs-3"><h2>Side Projects</h2></div>
-      <div class="col-xs-9">
-        {% for item in site.data.cv.sideProjects %}
-        <div class="row side-project">
-          <div class="col-xs-5">
-            <h4>
-            {% if item.type == 'github' %}
-                <i class="fa fa-github"></i>
-              {% elsif item.type == 'site' %}
-                <i class="fa fa-globe"></i>
-              {% endif %}
-              <a href="{{item.link}}">{{item.name}}</a>
-            </h4>
-
-            <h5>{{item.langs}}</h5>
-          </div>
-          <div class="col-xs-7">{{item.description}}</div>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-
-
     <div class="row section section-border">
       <div class="col-xs-3"><h2>Education</h2></div>
       <div class="col-xs-9">
