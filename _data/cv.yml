@@ -45,15 +45,24 @@ technicalSkills:
     - tr: "I could work either solo or being team player"
   backend:
    - name: Node.JS along with it framework
+     level: 100
    - name: Golang along with it framework
+     level: 100
    - name: PHP along with it framework
+     level: 100
    - name: AMQP Communication Protocol
+     level: 100
   other:
    - name: Docker/Containerization
+     level: 100
    - name: Linux
+     level: 100
    - name: SQL
+     level: 100
    - name: NoSQL
+     level: 100
    - name: Object Storage Server
+     level: 100
 
 education:
   - name: Budi Luhur University
