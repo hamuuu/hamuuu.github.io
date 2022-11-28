@@ -3,3 +3,4 @@ _site/
 .jekyll-metadata
 /.idea/
 /jekyll-cv-crafter-0.1.0.gem
+.env
