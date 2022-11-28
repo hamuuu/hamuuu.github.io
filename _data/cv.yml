@@ -1,37 +1,32 @@
-url: http://streetturtle.github.io
-projectUrl: jekyl-cv-crafter
+url: https://hamuuu.github.io/
+projectUrl: cv-mochamad-faldhi-satria
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
-  depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
-  citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
-  stackoverflow: /streetturtle
-  linkedin: /streetturtle
+  name: Mochamad Faldhi Satria
+  depiction: 1711501781.jpg
+  profession: Software Engineer - Backend
+  location: Jakarta
+  citizenship: Indonesia
+  email: faldhisatria@gmail.com
+  site: https://hamuuu.github.io/
+  phone: +62 813 8291 3458
+  github: /hamuuu
 
 career:
- - position: Foot Clan Antagonist
-   company: TMNT inc.
-   location: New York, USA
-   dates: September 2014 - current
-   summary: Physically the smallest of the Turtles and the least mature. Mikey is easily distracted and enthusiastic about... well, pretty much everything. He's also extremely creative. He has a thousand ideas, and every now and then, one of them will be brilliant. This combination of creativity and lack of focus gives him a kind of flow that the other Turtles cannot match. He's a social mutant and more than the others, pines to be part of the real world.
+ - position: Software Engineer - Backend
+   company: SPE Solution
+   location: Jakarta, Indonesia
+   dates: 2021 - current
+   summary: SPE provides high end solutions to enhance its client technology systems. Based on its experience and knowledge in Financial Technology (FinTech) fields for more than 6 years, SPE helped its clients build end-to-end financial technology solutions. SPE has specialists in the field of payment solutions development and management, payment gateways, e-commerce, switching, chain management systems, smart community, gamification, and also merchant management.
    accomplishments:
-    - accomplishment: Mikey is the most agile of all his brothers; his training as a ninja helped to balance and improve this, but his skills in skateboarding and dancing also gives Mikey an edge that will often shock his brothers. Mikey is an extremely good fighter. He's got a great knowledge with ninjutsu, which is why he is a good fighter. He may have the most raw talent of the four, but he does not seem to have the skill to develop it.
-    - accomplishment: He refers to himself as the king of pranks. Since he the most funniest of his brothers and he hasn't shown to be wrong since he was able to show his pranking skills against his brothers like water balloons as he wants to prank them all and he was able to use his prank of water ballon to use against the tank of the truck.
- - position: Shredder enemy
-   company: TMNT
-   location: New York, USA
-   dates: October 2012 – September 2014
-   summary: Impulsive, creative and very social, Michelangelo is the heart and soul of the Ninja Turtles. The runt of the litter, he may be the smallest of his mutant brothers, but that doesn't make him the weakest (just harder to catch). Enemies beware! Michelangelo is a master of the Kusarigama, nunchucks with a secret and sharp surprise!
-   accomplishments:
-    - accomplishment: Mikey's skills as a skateboarder and a ninja give him a great ability with balance.
-    - accomplishment: He has the normal ability of a turtle to go into his shell.
+    - accomplishment: BNI Autopay - Autopay Is a payment system owned by BNI that has the capacity to autodebit from BNI's individual taplus accounts. VA Auto Pay will produce a web application for monitoring and service that can be integrated with many e-commerce or marketplaces..
+    - accomplishment: Wappin ID - Wappin is platform to communicate which using WhatsApp API for create WhatsApp Business Integration.
+ - position: Software Engineer - Backend
+   company: Telkom Indonesia
+   location: Jakarta, Indonesia
+   dates: 2022 - current
+   summary: Join with tribe eHealth to develop app named "Lovit Superapp" to provide service for all internal employee of Telkom Indonesia
 
 technicalSkills:
   list:
